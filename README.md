@@ -3,7 +3,7 @@ Module 10 challenge
 
 This assignment is performed using sqlalchemy to query and analyze climate data, and using Flask to deliver local host query results to web browser.
 
-##Step 1 - Climate Analysis and Exploration
+##Step 1 - Climate Analysis and Exploration##
 
 To begin, I used:
 - Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
